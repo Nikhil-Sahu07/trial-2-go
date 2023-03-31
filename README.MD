@@ -5,9 +5,9 @@ hello world
 ### heading 3
 lorem epsem 
 
-**Added some files** '😘
+**Added some files** 😘
 _trying to post to gh-pages_
 ---
 ~~strikethrough~~
 
-'😭❤️
+😭❤️
